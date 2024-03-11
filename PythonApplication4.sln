@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication4", "PythonApplication4.pyproj", "{171A527E-68D5-4278-93EB-AE902F12C554}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "module 1", "..\module 1\module 1.pyproj", "{D34EB920-2087-45C2-B1FD-8A60DE33CEF7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "modulee2", "..\modulee2\modulee2.pyproj", "{8628D5A5-96BE-436E-92AC-0FF9D463E389}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "päevad", "..\moduleee3\päevad.pyproj", "{3B9E3FFF-1894-4F76-9B07-2B8AF81A7831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171A527E-68D5-4278-93EB-AE902F12C554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171A527E-68D5-4278-93EB-AE902F12C554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34EB920-2087-45C2-B1FD-8A60DE33CEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34EB920-2087-45C2-B1FD-8A60DE33CEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8628D5A5-96BE-436E-92AC-0FF9D463E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8628D5A5-96BE-436E-92AC-0FF9D463E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9E3FFF-1894-4F76-9B07-2B8AF81A7831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9E3FFF-1894-4F76-9B07-2B8AF81A7831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B1FA4E-8EF9-4972-B68F-5F124AE709BE}
+	EndGlobalSection
+EndGlobal
